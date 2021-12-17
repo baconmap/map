@@ -7,9 +7,8 @@ module.exports = {
     entry: './src/index.ts',
     devtool: 'inline-source-map',
     devServer: {
-        static: ["."],
+        static: ['.'],
         //host: '0.0.0.0',
-        port: 3000,
         host: 'localhost',
         //sockPort: 80,
         allowedHosts: "all",
