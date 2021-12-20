@@ -55,7 +55,13 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/loficity.chainbacon.com\/"
-                }],
+                },
+                {
+                 "name":"script",
+                 "type":"string",
+                 "value":"script.js"
+                }
+                ],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -244,7 +250,7 @@
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"workDesk"
+                 "value":"needHelp"
                 }],
          "type":"tilelayer",
          "visible":true,
