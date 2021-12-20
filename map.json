@@ -55,6 +55,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/loficity.chainbacon.com\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open LoFi Town web page! \u6309\u7a7a\u683c\u9375\u6253\u958b LoFi Town \u7db2\u9801\uff01"
                 }],
          "type":"tilelayer",
          "visible":true,
