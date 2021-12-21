@@ -103,9 +103,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"message",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"LAND FOR SALE - A00002"
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"LAND FOR SALE - 00002"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +131,7 @@
                  "value":"LAND FOR SALE - A00001"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
