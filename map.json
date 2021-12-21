@@ -307,7 +307,7 @@
                  "id":4,
                  "name":"clockPopup",
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":122.795732500651,
                  "x":142.037638850638,
@@ -332,7 +332,7 @@
          "y":0
         }],
  "nextlayerid":59,
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -363,7 +363,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script.js"
+         "value":"bundle.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
