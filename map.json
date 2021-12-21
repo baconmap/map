@@ -134,7 +134,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map4\/map.json"
+                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map3\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
