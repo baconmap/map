@@ -86,17 +86,17 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map3\/map.json"
                 }, 
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"exitUrlTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"openWebsiteTriggerMessage",
+                 "name":"exitUrlTriggerMessage",
                  "type":"string",
                  "value":"Press SPACE to enter art galley demo! \u6309\u7a7a\u683c\u9375\u9032\u5165\u85dd\u5eca\u5c55\u793a\uff01"
                 }],
