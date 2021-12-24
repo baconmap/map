@@ -15,7 +15,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -45,7 +45,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
@@ -58,19 +58,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map4\/map.json"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Press SPACE to enter office demo! \u6309\u7a7a\u683c\u9375\u9032\u5165\u865b\u64ec\u8fa6\u516c\u5ba4\u5c55\u793a\uff01"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -89,16 +79,6 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map3\/map.json"
-                }, 
-                {
-                 "name":"exitUrlTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"exitUrlTriggerMessage",
-                 "type":"string",
-                 "value":"Press SPACE to enter art galley demo! \u6309\u7a7a\u683c\u9375\u9032\u5165\u85dd\u5eca\u5c55\u793a\uff01"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,19 +94,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map2\/map.json"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Press SPACE to enter life music pub demo! \u6309\u7a7a\u683c\u9375\u9032\u5165\u97f3\u6a02\u9152\u9928\u5c55\u793a\uff01"
                 }],
          "type":"tilelayer",
          "visible":true,
