@@ -156,7 +156,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.facebook.com\/plugins\/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fasiablochain&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+                 "value":"https:\/\/www.facebook.com\/plugins\/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fasiablochain%2Fposts%2F242769774644983&width=500&show_text=true&height=558&appId"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
