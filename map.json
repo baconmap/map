@@ -46,9 +46,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"goToRoom",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map2\/map.json"
+                }, 
+                {
+                 "name":"goToRoomTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"goToRoomTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter Pub!\u6309\u7a7a\u683c\u5efa\u9032\u5165Pub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -64,9 +74,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"goToRoom",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map3\/map.json"
+                }, 
+                {
+                 "name":"goToRoomTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"goToRoomTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter gallery!\u6309\u7a7a\u683c\u5efa\u9032\u5165gallery"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -82,9 +102,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"goToRoom",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map4\/map.json"
+                }, 
+                {
+                 "name":"goToRoomTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"goToRoomTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter Office!\u6309\u7a7a\u683c\u5efa\u9032\u5165\u8fa6\u516c\u5ba4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -100,9 +130,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"goToRoom",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map7\/map.json"
+                }, 
+                {
+                 "name":"goToRoomTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"goToRoomTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter Farm!\u6309\u7a7a\u683c\u5efa\u9032\u5165\u8fb2\u5834"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -118,9 +158,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"goToRoom",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map6\/map.json"
+                }, 
+                {
+                 "name":"goToRoomTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"goToRoomTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter cityhall!\u6309\u7a7a\u683c\u5efa\u9032\u5165\u5e02\u653f\u5e9c"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -136,9 +186,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"goToRoom",
                  "type":"string",
                  "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map5\/map.json"
+                }, 
+                {
+                 "name":"goToRoomTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"goToRoomTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter station!\u6309\u7a7a\u683c\u5efa\u9032\u5165\u8eca\u7ad9"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -498,6 +558,11 @@
          "name":"script",
          "type":"string",
          "value":"script.js"
+        },
+        {
+         "name":"script",
+         "type":"string",
+         "value":"scriptMapExtra_01.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
