@@ -30,7 +30,7 @@
                 {
                  "name":"goToRoom",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map2\/map.json"
+                 "value":"https:\/\/play.lofitown.world\/_\/global\/baconmap.github.io\/map2\/map.json"
                 }, 
                 {
                  "name":"goToRoomTrigger",
@@ -58,7 +58,7 @@
                 {
                  "name":"goToRoom",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map3\/map.json"
+                 "value":"https:\/\/play.lofitown.world\/_\/global\/baconmap.github.io\/map3\/map.json"
                 }, 
                 {
                  "name":"goToRoomTrigger",
@@ -86,7 +86,7 @@
                 {
                  "name":"goToRoom",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map4\/map.json"
+                 "value":"https:\/\/play.lofitown.world\/_\/global\/baconmap.github.io\/map4\/map.json"
                 }, 
                 {
                  "name":"goToRoomTrigger",
@@ -114,7 +114,7 @@
                 {
                  "name":"goToRoom",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map7\/map.json"
+                 "value":"https:\/\/play.lofitown.world\/_\/global\/baconmap.github.io\/map7\/map.json"
                 }, 
                 {
                  "name":"goToRoomTrigger",
@@ -142,7 +142,7 @@
                 {
                  "name":"goToRoom",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map6\/map.json"
+                 "value":"https:\/\/play.lofitown.world\/_\/global\/baconmap.github.io\/map6\/map.json"
                 }, 
                 {
                  "name":"goToRoomTrigger",
@@ -170,7 +170,7 @@
                 {
                  "name":"goToRoom",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map5\/map.json"
+                 "value":"https:\/\/play.lofitown.world\/_\/global\/baconmap.github.io\/map5\/map.json"
                 }, 
                 {
                  "name":"goToRoomTrigger",
