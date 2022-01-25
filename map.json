@@ -292,7 +292,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press SPACE to open MORICE website \u6309\u7a7a\u683c\u9375\u6253\u958b\u9b54\u7c73\u7db2\u7ad9"
+                 "value":"Press SPACE to open MoRice website \u6309\u7a7a\u683c\u9375\u6253\u958b\u9b54\u7c73\u7db2\u7ad9"
                 }],
          "type":"tilelayer",
          "visible":true,
