@@ -282,7 +282,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.tw-morice.com\/?fbclid=IwAR2GIXe6z4L4fZlDXpt15L2vwzd70I8auS2SxjW8V2PIzLftPsZkZuDtjRE"
+                 "value":"http:\/\/www.tw-morice.com"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
